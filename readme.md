@@ -33,3 +33,6 @@ create a customized list of items that are interesting and relevant to an indivi
 are based on their profile, search/browsing history, what other people with similar 
 traits/demographics are working on, and how likely are you to work on those projects. This is 
 achieved through predictive modeling and heuristics with the data available.
+
+![image](https://user-images.githubusercontent.com/54789620/208154312-59c9e6e7-56ce-4b40-90cd-0b826af35273.png)
+
